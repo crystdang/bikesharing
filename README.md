@@ -1,6 +1,8 @@
 # Module 15 Challenge: NYC Bike Sharing Analysis - Tableau Public
 ## by Crystina Dang
 
+*Note: .csv files have been compressed due to GitHub size limitations*
+
 ### Overview of the Analysis: 
 The purpose of this analysis was to provide insight for a Des Moines bike sharing business proposal using the data from the NYC bike sharing program. These visualizations were for a key stakeholder looking to better understand bike trips.
 
